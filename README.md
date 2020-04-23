@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
   <h1>Javascript Assíncrono - Curso Udemy</h1>
 =======
  Javascript Assíncrono - Curso Udemy
+>>>>>>> Update README.md
+=======
+ ##Javascript Assíncrono - Curso Udemy
 >>>>>>> Update README.md
 
 Modulo da Javascript Assíncrono do curso de Javascript da Udemy
