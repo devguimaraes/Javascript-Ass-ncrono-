@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+  <h1>Javascript Assíncrono - Curso Udemy</h1>
+>>>>>>> 1544a70b2332f62e5b3994128712373d7534bf2f
 
 Modulo da Javascript Assíncrono do curso de Javascript da Udemy
 - Promises
